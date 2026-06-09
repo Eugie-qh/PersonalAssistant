@@ -2,6 +2,7 @@
 version: 1
 updated: 2026-06-09
 auto_suggestion_count: 0
+cssclasses:
 ---
 
 # Wiki Schema Configuration
