@@ -1,0 +1,30 @@
+{
+  "provider": "deepseek",
+  "apiKey": "sk-196113f29b0746f68899e1aab8e4178f",
+  "baseUrl": "https://api.deepseek.com/v1",
+  "model": "deepseek-v4-flash",
+  "wikiFolder": "miki",
+  "language": "en",
+  "wikiLanguage": "zh",
+  "useCustomWikiLanguage": false,
+  "availableModels": [
+    "deepseek-v4-flash",
+    "deepseek-v4-pro"
+  ],
+  "useCustomModel": false,
+  "maxConversationHistory": 30,
+  "queryHistory": [],
+  "enableSchema": true,
+  "extractionGranularity": "standard",
+  "autoWatchSources": false,
+  "autoWatchMode": "notify",
+  "autoWatchDebounceMs": 5000,
+  "watchedFolders": [],
+  "periodicLint": "off",
+  "startupCheck": true,
+  "pageGenerationConcurrency": 3,
+  "batchDelayMs": 500,
+  "lastOfferedQueryHash": "",
+  "llmReady": true,
+  "maxTokensPerCall": 0
+}
